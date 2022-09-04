@@ -8,3 +8,13 @@ E:\Study\ASPdotNET\Exercise\CSharp\Grade_and_Calculator\Calculator\obj\Debug\Cal
 E:\Study\ASPdotNET\Exercise\CSharp\Grade_and_Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 E:\Study\ASPdotNET\Exercise\CSharp\Grade_and_Calculator\Calculator\obj\Debug\Calculator.exe
 E:\Study\ASPdotNET\Exercise\CSharp\Grade_and_Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\GitHubRepo\SimpleCalculator\Calculator\bin\Debug\Calculator.exe.config
+E:\GitHubRepo\SimpleCalculator\Calculator\bin\Debug\Calculator.exe
+E:\GitHubRepo\SimpleCalculator\Calculator\bin\Debug\Calculator.pdb
+E:\GitHubRepo\SimpleCalculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\GitHubRepo\SimpleCalculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\GitHubRepo\SimpleCalculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\GitHubRepo\SimpleCalculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\GitHubRepo\SimpleCalculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\GitHubRepo\SimpleCalculator\Calculator\obj\Debug\Calculator.exe
+E:\GitHubRepo\SimpleCalculator\Calculator\obj\Debug\Calculator.pdb
